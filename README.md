@@ -5,6 +5,6 @@
 [Boletin1]:https://github.com/alvaroleon10/JavaProg/tree/main/Boletin1
 [Boletin2]:https://github.com/alvaroleon10/JavaProg/tree/main/Boletin2
 
-[**Boletín 1**][Boletin1]
-[**Boletín 2**][Boletin2]
+- [**Boletín 1**][Boletin1]
+- [**Boletín 2**][Boletin2]
 
